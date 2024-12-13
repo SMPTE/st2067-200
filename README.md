@@ -10,7 +10,7 @@ Please report issues at <https://github.com/SMPTE/st2067-200/issues> or at 35PM 
 
 ## Contributing
 
-All published version(s) of this document can be found at <[https://pub.smpte.org/doc/${repository_name}/](https://pub.smpte.org/doc/st2067-200/)>
+All published version(s) of this document can be found at <[https://pub.smpte.org/doc/st2067-200/](https://pub.smpte.org/doc/st2067-200/)>
 
 The draft version(s) of this document is accessible to SMPTE Standards Community members at <https://github.com/SMPTE/st2067-200-private>.
 
