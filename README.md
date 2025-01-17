@@ -1,6 +1,6 @@
 # SMPTE _ST 2067-200_ - _Interoperable Master Format (IMF) — Dynamic Metadata for Color Volume Transform (DMCVT) Plug-in_
 
-_This repository is <public>._ 
+_This repository is public._ 
 
 Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONFIDENTIALITY.md), [LICENSE.md](./LICENSE.md) and [PATENTS.md](./PATENTS.md) for important notices.
 
