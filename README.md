@@ -14,8 +14,3 @@ All published version(s) of this document can be found at <[https://pub.smpte.or
 
 The draft version(s) of this document is accessible to SMPTE Standards Community members at <https://github.com/SMPTE/st2067-200-private>.
 
-## Project details
-
-< description from AG-06 >
-
-< and other useful information >
